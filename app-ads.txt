@@ -5,6 +5,8 @@ pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
 criteo.com, B-057955, RESELLER, 9fac4a4a87c2a44f
 bigo.sg, 130, RESELLER
+improvedigital.com, 1209, RESELLER
+ionvogroup.com, 4737400844, RESELLER
 toponad.com, 16385e313a271a, DIRECT, 1d49fe424a1a456d
 pubmatic.com, 161151, RESELLER, 5d62403b186f2ace
 ignitemediatech.com, pub_61122, RESELLER
